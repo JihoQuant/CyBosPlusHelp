@@ -2,4 +2,4 @@
 
 ## CyBos Plus
 
-release를 확인하세요!
+[release](https://github.com/JihoQuant/CyBosPlusHelp/releases/tag/v1.0)를 확인하세요!
